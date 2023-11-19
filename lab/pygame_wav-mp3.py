@@ -5,7 +5,7 @@ import pygame
 pygame.init()
 #snd=pygame.mixer.Sound('./audio/sample.wav')
 #pygame.mixer.music.load('./audio/sample.wav')
-pygame.mixer.music.load('./audio/sample.mp3')
+pygame.mixer.music.load('./audio/1.mp3')
 pygame.mixer.music.play()
 #snd.play()
 #pygame.time.wait(30000)
